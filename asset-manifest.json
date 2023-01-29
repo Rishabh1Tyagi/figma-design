@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/figma-design/static/css/main.93c8482d.css",
+    "main.js": "/figma-design/static/js/main.d3139f1b.js",
+    "static/js/787.775ba2c0.chunk.js": "/figma-design/static/js/787.775ba2c0.chunk.js",
+    "index.html": "/figma-design/index.html",
+    "main.93c8482d.css.map": "/figma-design/static/css/main.93c8482d.css.map",
+    "main.d3139f1b.js.map": "/figma-design/static/js/main.d3139f1b.js.map",
+    "787.775ba2c0.chunk.js.map": "/figma-design/static/js/787.775ba2c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c8482d.css",
+    "static/js/main.d3139f1b.js"
+  ]
+}
