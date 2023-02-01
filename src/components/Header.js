@@ -25,7 +25,7 @@ const Header = () => {
           </table>
         </div>
         {/* first div start here */}
-        <div className="md-stepper-horizontal green">
+        <div className="md-stepper-horizontal green" id="abc">
           <div style={{ display: "flex", flexDirection: "row" }}>
             <div style={{ marginLeft: "25px" }}>
               <h2 style={{ fontSize: "20px" }}>Anmol Mahajan</h2>
@@ -352,6 +352,57 @@ const Header = () => {
           </div>
         </div>
         {/* eighth div ends here */}
+      </div>
+      {/* new div */}
+      <div>
+        <div className="containers">
+          <div className="step completed">
+            <div className="v-stepper">
+              <div className="circle"></div>
+              <div className="line"></div>
+            </div>
+
+            <div className="content">
+              <h2>Anmol Mahajan</h2>
+              <p>Senior Engineer</p>
+            </div>
+          </div>
+
+          <div className="step completed">
+            <div className="v-stepper">
+              <div className="circle"></div>
+              <div className="line"></div>
+            </div>
+
+            <div className="content">Referred . 20 July 2022</div>
+          </div>
+
+          <div className="step completed">
+            <div className="v-stepper">
+              <div className="circle"></div>
+              <div className="line"></div>
+            </div>
+
+            <div className="content">Interviewed . 22 July 2022</div>
+          </div>
+
+          <div className="step completed">
+            <div className="v-stepper">
+              <div className="circle"></div>
+              <div className="line"></div>
+            </div>
+
+            <div className="content">Hired . 25 July 2022</div>
+          </div>
+          <div className="step completed">
+            <div className="v-stepper">
+              <div className="circle"></div>
+              <div className="line"></div>
+            </div>
+
+            <div className="content">Joined . 1 August 2022</div>
+          </div>
+        </div>
       </div>
     </>
   );
